@@ -14,4 +14,6 @@ console.log(`result_multiply = ${result_multiply}`);
 const result_div = calc.divide(2, 3);
 console.log(`result_div = ${result_div}`);
 
+calc.hello();
 console.log("done");
+
